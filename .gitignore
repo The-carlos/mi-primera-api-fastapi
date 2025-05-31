@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Configuración personal de ngrok
+.ngrok2/
+
+# Archivos temporales
+*.zip
+
